@@ -3,7 +3,7 @@
 **Ders:** YZR502 Robotik Sistemler ve Algoritmalar  
 **Ödev:** ODEV0901  
 **Öğrenci:** Merve Tutar  
-**Youtube:** https://youtu.be/WuLpcilKcq4
+
 
 ---
 
@@ -17,9 +17,9 @@ Bu çalışmada, robotik görü sistemlerinde nesne tanıma performansını etki
 
 | | Link |
 |---|---|
-| 📄 Makale | Bu repodaki `YZR502_ODEV0901.docx` |
+| 📄 Makale | Bu repodaki `YZR502_ODEV0901_Merve.docx` |
 | 💻 Colab Notebook | `YZR502_ODEV0901.ipynb` |
-| 🎥 YouTube Video | https://youtu.be/XXXXXXXXXX |
+| 🎥 YouTube Video |(https://youtu.be/WuLpcilKcq4) |
 
 ---
 

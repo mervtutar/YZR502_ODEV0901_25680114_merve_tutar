@@ -3,7 +3,7 @@
 **Ders:** YZR502 Robotik Sistemler ve Algoritmalar  
 **Ödev:** ODEV0901  
 **Öğrenci:** Merve Tutar  
-**Veriliş:** 27 Nisan 2026 | **Teslim:** 3 Mayıs 2026
+
 
 ---
 
@@ -17,30 +17,12 @@ Bu çalışmada, robotik görü sistemlerinde nesne tanıma performansını etki
 
 | | Link |
 |---|---|
-| 📄 Makale | Bu repodaki `YZR502_ODEV0901_Makale.docx` |
+| 📄 Makale | Bu repodaki `YZR502_ODEV0901.docx` |
 | 💻 Colab Notebook | `YZR502_ODEV0901.ipynb` |
 | 🎥 YouTube Video | https://youtu.be/XXXXXXXXXX |
 
 ---
 
-## 📁 Repo İçeriği
-
-```
-├── YZR502_ODEV0901.ipynb        # Tamamlanmış Colab notebook (tüm TODO'lar dolu)
-├── YZR502_ODEV0901_Makale.docx  # Computers and Informatics formatında makale
-├── sample.jpg                   # Kullanılan örnek görüntü (butterfly)
-├── outputs/
-│   ├── 01_original_gray.png         # Orijinal ve gri seviye görüntü
-│   ├── 02_preprocessed.png          # Gauss + CLAHE sonrası
-│   ├── 03_edges_contours.png        # Canny kenar haritası + konturlar
-│   ├── Deney_1_Varsayilan.png       # D1 sonuç görseli
-│   ├── Deney_2_Agresif_Kenar.png   # D2 sonuç görseli
-│   ├── Deney_3_Guclu_Yumusatma.png # D3 sonuç görseli
-│   ├── Deney_4_Yuksek_Kontrast.png # D4 sonuç görseli
-│   ├── Deney_5_Az_ORB_Yuksek_Sigma.png # D5 sonuç görseli
-│   └── comparison_charts.png        # Karşılaştırmalı bar grafikleri
-└── README.md
-```
 
 ---
 
